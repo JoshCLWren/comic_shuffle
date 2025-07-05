@@ -1,0 +1,1034 @@
+{
+  "comics": [
+    {
+      "label": "X-men Reading Order",
+      "entries": [
+        {
+          "comic": "Excalibur 106",
+          "status": "unread"
+        },
+        {
+          "comic": "Magneto 1",
+          "status": "unread"
+        },
+        {
+          "comic": "Magneto 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Magneto 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Magneto 4",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Factor 128",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Factor 129",
+          "status": "unread"
+        },
+        {
+          "comic": "Uncanny X-Men 340",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Factor 130",
+          "status": "unread"
+        },
+        {
+          "comic": "Deadpool 1",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Men 60",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Men 61",
+          "status": "unread"
+        },
+        {
+          "comic": "Cable 40",
+          "status": "unread"
+        },
+        {
+          "comic": "Generation X 23",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Men Annual 1997 1",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Men Unlimited 14",
+          "status": "unread"
+        },
+        {
+          "comic": "Juggernaut 1",
+          "status": "unread"
+        },
+        {
+          "comic": "X-Man 23",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "main"
+    },
+    {
+      "label": "Alpha Flight",
+      "entries": [
+        {
+          "comic": "Alpha Flight 18",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 19",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 20",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 21",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 22",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 23",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 24",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 25",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 26",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 27",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 28",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 29",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 30",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 31",
+          "status": "unread"
+        },
+        {
+          "comic": "Alpha Flight 32",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Camelot 3000",
+      "entries": [
+        {
+          "comic": "Camelot 3000 7",
+          "status": "unread"
+        },
+        {
+          "comic": "Camelot 3000 8",
+          "status": "unread"
+        },
+        {
+          "comic": "Camelot 3000 9",
+          "status": "unread"
+        },
+        {
+          "comic": "Camelot 3000 10",
+          "status": "unread"
+        },
+        {
+          "comic": "Camelot 3000 11",
+          "status": "unread"
+        },
+        {
+          "comic": "Camelot 3000 12",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Clobberin Time",
+      "entries": [
+        {
+          "comic": "Clobberin Time 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Clobberin Time 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Clobberin Time 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Clobberin Time 5",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Conan",
+      "entries": [
+        {
+          "comic": "Conan 13",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 14",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 15",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 16",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 17",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 18",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 19",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 20",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 21",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 22",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 23",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 24",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 25",
+          "status": "unread"
+        },
+        {
+          "comic": "Conan 26",
+          "status": "unread"
+        }
+      ],
+      "format": "magazine",
+      "category": "side_quest"
+    },
+    {
+      "label": "Elektra Assasin",
+      "entries": [
+        {
+          "comic": "Elektra Assasin 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Elektra Assasin 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Elektra Assasin 6",
+          "status": "unread"
+        },
+        {
+          "comic": "Elektra Assasin 7",
+          "status": "unread"
+        },
+        {
+          "comic": "Elektra Assasin 8",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Exiles",
+      "entries": [
+        {
+          "comic": "Exiles 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 6",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 7",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 8",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 9",
+          "status": "unread"
+        },
+        {
+          "comic": "Exiles 10",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Deaths Head II",
+      "entries": [
+        {
+          "comic": "Deaths Head II 1",
+          "status": "unread"
+        },
+        {
+          "comic": "Deaths Head II 2",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Forgotten Realms",
+      "entries": [
+        {
+          "comic": "Forgotten Realms 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Forgotten Realms 4",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Iceman",
+      "entries": [
+        {
+          "comic": "Iceman 4",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Saga",
+      "entries": [
+        {
+          "comic": "Saga 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 6",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 7",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 8",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 9",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 10",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 11",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 12",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 13",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 14",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 15",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 16",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 17",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 18",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 19",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 20",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 21",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 22",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 23",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 24",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 25",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 26",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 27",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 28",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 29",
+          "status": "unread"
+        },
+        {
+          "comic": "Saga 30",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Starman",
+      "entries": [
+        {
+          "comic": "Starman 1",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 6",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 7",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 8",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 9",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 10",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 11",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 12",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 13",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 14",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 15",
+          "status": "unread"
+        },
+        {
+          "comic": "Starman 16",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Strikeforce Morituri",
+      "entries": [
+        {
+          "comic": "Strikeforce Morituri 9",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 10",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 11",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 12",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 13",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 14",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 15",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 16",
+          "status": "unread"
+        },
+        {
+          "comic": "Strikeforce Morituri 17",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Supreme",
+      "entries": [
+        {
+          "comic": "Supreme 44",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 45",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 46",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 47",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 48",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 49",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 50",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 51",
+          "status": "unread"
+        },
+        {
+          "comic": "Supreme 52",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Wildcats v1",
+      "entries": [
+        {
+          "comic": "Wildcats v1 16",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 17",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 18",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 19",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 20",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 21",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 22",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 23",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 24",
+          "status": "unread"
+        },
+        {
+          "comic": "Wildcats v1 25",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Marvel Verse Thanos",
+      "entries": [
+        {
+          "comic": "Marvel Verse Thanos 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel Verse Thanos 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel Verse Thanos 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel Verse Thanos 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel Verse Thanos 6",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Marvel",
+      "entries": [
+        {
+          "comic": "Marvel 1",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Marvel 6",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Silver Surfer",
+      "entries": [
+        {
+          "comic": "Silver Surfer 40",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 41",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 42",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 43",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 44",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 45",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 46",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 47",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 48",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 49",
+          "status": "unread"
+        },
+        {
+          "comic": "Silver Surfer 50",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Stormwatch",
+      "entries": [
+        {
+          "comic": "Stormwatch 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Stormwatch 4",
+          "status": "unread"
+        }
+      ],
+      "format": "singles",
+      "category": "side_quest"
+    },
+    {
+      "label": "Fantastic Four Galactus Trade",
+      "entries": [
+        {
+          "comic": "Fantastic Four Galactus Trade 2",
+          "status": "unread"
+        },
+        {
+          "comic": "Fantastic Four Galactus Trade 3",
+          "status": "unread"
+        },
+        {
+          "comic": "Fantastic Four Galactus Trade 4",
+          "status": "unread"
+        },
+        {
+          "comic": "Fantastic Four Galactus Trade 5",
+          "status": "unread"
+        },
+        {
+          "comic": "Fantastic Four Galactus Trade 6",
+          "status": "unread"
+        }
+      ],
+      "format": "tpb",
+      "category": "side_quest"
+    },
+    {
+      "label": "Arak 1",
+      "entries": [
+        {
+          "comic": "Arak 1",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Chip n Dale Rescue Rangers 1",
+      "entries": [
+        {
+          "comic": "Chip n Dale Rescue Rangers 1",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Deathmate 1",
+      "entries": [
+        {
+          "comic": "Deathmate 1",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD Fantastic Four",
+      "entries": [
+        {
+          "comic": "FCBD Fantastic Four",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Ghosts 38",
+      "entries": [
+        {
+          "comic": "Ghosts 38",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "GI Joe Skybound 1",
+      "entries": [
+        {
+          "comic": "GI Joe Skybound 1",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Kull the Conqueror 1",
+      "entries": [
+        {
+          "comic": "Kull the Conqueror 1",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD Spider-Man",
+      "entries": [
+        {
+          "comic": "FCBD Spider-Man",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Superman for All Seasons Spring",
+      "entries": [
+        {
+          "comic": "Superman for All Seasons Spring",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD TMNT",
+      "entries": [
+        {
+          "comic": "FCBD TMNT",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD Rons of Strange",
+      "entries": [
+        {
+          "comic": "FCBD Rons of Strange",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD Transformers Worst Robot Ever",
+      "entries": [
+        {
+          "comic": "FCBD Transformers Worst Robot Ever",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Uncanny X-Men 2024 3",
+      "entries": [
+        {
+          "comic": "Uncanny X-Men 2024 3",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "What If v2 62",
+      "entries": [
+        {
+          "comic": "What If v2 62",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "What If v2 13",
+      "entries": [
+        {
+          "comic": "What If v2 13",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "What If v2 90",
+      "entries": [
+        {
+          "comic": "What If v2 90",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "FCBD X-Men Hickman",
+      "entries": [
+        {
+          "comic": "FCBD X-Men Hickman",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    },
+    {
+      "label": "Death of Captain Marvel",
+      "entries": [
+        {
+          "comic": "Death of Captain Marvel",
+          "status": "unread"
+        }
+      ],
+      "format": "single",
+      "category": "one_off"
+    }
+  ]
+}
