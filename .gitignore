@@ -1,0 +1,208 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+pipenv-lock.json
+poetry.lock
+.pdm.toml
+
+# Streamlit
+.streamlit/secrets.toml
+*.pkl
+*.pickle
+
+# Data & Models
+data/raw/
+data/processed/
+data/interim/
+models/
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.onnx
+
+# Jupyter/IPython
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+*.ipynb
+
+# Testing
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs & Databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+logs/
+*.pid
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Security
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+.secrets/
+credentials/
+tokens/
+
+# Package Management
+node_modules/
+bower_components/
+vendor/
+
+# Documentation
+docs/_build/
+site/
+.docusaurus/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swm
+*.out
+*.pid
+
+# Media Files (if generated)
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+uploads/
+downloads/
+media/
+
+# Cloud & Deployment
+.serverless/
+.terraform/
+*.tfstate
+*.tfstate.*
+.aws/
+.gcp/
+.azure/
+deployment/
+
+# Monitoring & Profiling
+.prof
+*.prof
+.benchmark/
+profiling/
+
+# Custom Streamlit Artifacts
+streamlit_app_cache/
+user_uploads/
+session_states/
+.streamlit/config.toml
+!.streamlit/config.toml.example
+
+# ML Experiment Tracking
+mlruns/
+outputs/
+wandb/
+tensorboard/
+lightning_logs/
+
+# Large Files
+*.csv
+!sample_data.csv
+*.parquet
+*.feather
+*.msgpack
+*.xlsx
+!template.xlsx
+
+# Compiled Extensions
+*.pyd
+*.dll
+*.dylib
+
+# Distribution
+.pypirc
+MANIFEST.in
+
+# CI/CD
+.github/workflows/secrets/
+.gitlab-ci-local/
+.circleci/local/
+
+# Docker (if not tracking)
+docker-compose.override.yml
+.dockerignore.local
